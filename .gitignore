@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Conda
+.conda/
+conda-bld/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Logs and local runtime files
+*.log
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+

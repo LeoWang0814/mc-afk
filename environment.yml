@@ -1,0 +1,9 @@
+name: mc-afk-automation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pyautogui==0.9.54
+      - pynput==1.7.7
