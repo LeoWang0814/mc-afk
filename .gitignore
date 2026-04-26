@@ -7,6 +7,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv-arm64-build/
 venv/
 env/
 .env/
@@ -30,4 +31,3 @@ dist/
 .idea/
 Thumbs.db
 Desktop.ini
-
